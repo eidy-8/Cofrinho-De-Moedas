@@ -1,4 +1,3 @@
-# Cofrinho-De-Moedas
 # Cofrinho de Moedas
 
 Este projeto foi desenvolvido com o objetivo de estudar a disciplina de Programação Orientada a Objetos na minha faculdade. Trata-se de um cofrinho virtual que permite armazenar moedas de euro, dólar e real, além de oferecer funcionalidades para remoção de moedas, listagem das moedas armazenadas e cálculo do total em reais.
@@ -17,7 +16,7 @@ O Cofrinho de Moedas possui as seguintes funcionalidades:
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Linguagem de programação: Java
-- IDE: Eclipse (versão XYZ)
+- IDE: Eclipse (versão 4.28.0)
 
 ## Como Executar o Projeto
 
